@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>programming language on Derry Dev Blog</title>
+    <link>https://derry.club/categories/programming-language/</link>
+    <description>Recent content in programming language on Derry Dev Blog</description>
+    <image>
+      <url>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 Apr 2022 21:54:34 +0800</lastBuildDate><atom:link href="https://derry.club/categories/programming-language/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java static keyword and why we use it?</title>
+      <link>https://derry.club/java/static/</link>
+      <pubDate>Sat, 16 Apr 2022 21:54:34 +0800</pubDate>
+      
+      <guid>https://derry.club/java/static/</guid>
+      <description>Static  In simple words: static means the variable or methods that assigned to are belonging to the class, not the object. Therefore, there&amp;rsquo;s only one copy of the variable/method in the memory.
+ When create an object where all instance variables aren&amp;rsquo;t static, every object will own its memory space, and its own copy of value.
+Suppose we have a ball class:
+class Ball{ double radius; final double PI = 3.</description>
+    </item>
+    
+  </channel>
+</rss>

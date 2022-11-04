@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Derry Dev Blog</title>
+    <link>https://derry.club/</link>
+    <description>Recent content on Derry Dev Blog</description>
+    <image>
+      <url>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Jun 2022 18:47:30 +0800</lastBuildDate><atom:link href="https://derry.club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Cheatsheet</title>
+      <link>https://derry.club/posts/git-cheatsheet/</link>
+      <pubDate>Mon, 27 Jun 2022 18:47:30 +0800</pubDate>
+      
+      <guid>https://derry.club/posts/git-cheatsheet/</guid>
+      <description>I learn git from this interactive tutorial. I take note along the way while I was doing it.
+Learn git visual
+Commit to repo We was on C1 commit
+git commit Branch new branch git branch &amp;lt;name&amp;gt; change branch git checkout &amp;lt;name&amp;gt; create a new branch and check it out It can be shorthand:
+git checkout -b &amp;lt;name&amp;gt; merge Now we are working on main branch
+We are going to merge the branch bugFix into main</description>
+    </item>
+    
+    <item>
+      <title>Java - static Keyword</title>
+      <link>https://derry.club/posts/java/static-keyword/</link>
+      <pubDate>Mon, 18 Apr 2022 14:30:55 +0800</pubDate>
+      
+      <guid>https://derry.club/posts/java/static-keyword/</guid>
+      <description>static In simple words: static means the variable or methods that assigned to are belonging to the class, not the object. Therefore, there&amp;rsquo;s only one copy of the variable/method in the memory.
+When create an object where all instance variables aren&amp;rsquo;t static, every object will own its memory space, and its own copy of value.
+Suppose we have a ball class:
+class Ball{ double radius; final double PI = 3.14159; } We create 2 Ball objects, each Ball object will have its own instance variables in the memory</description>
+    </item>
+    
+    <item>
+      <title>Keys in Database</title>
+      <link>https://derry.club/posts/keys-in-database/</link>
+      <pubDate>Thu, 17 Mar 2022 14:26:35 +0800</pubDate>
+      
+      <guid>https://derry.club/posts/keys-in-database/</guid>
+      <description>There are 8 types of keys in DBMS(Database Management system). Keys are used to help developers to identify a row in a relation(table). Understanding each keys will help you understand and develop a database.
+In modern world, data is growing at a rapid pace. So does the demand for professional data analyst. In this article, I will help you understand the keys in DBMS. I suggest you have memorize these terms as it will help you build a logical database and if later on you want to expand the program, you don&amp;rsquo;t have to start over.</description>
+    </item>
+    
+    <item>
+      <title>How to Format Flash Drive</title>
+      <link>https://derry.club/posts/how-to-format-flash-drive/</link>
+      <pubDate>Thu, 17 Mar 2022 12:06:46 +0800</pubDate>
+      
+      <guid>https://derry.club/posts/how-to-format-flash-drive/</guid>
+      <description>How to format USB (flash drive) in Linux command line? Flash drives are very commonly used. From time to time, we stored our files, presentations, logs in this drives. It&amp;rsquo;s a convenient way to copy and carry around. Sometimes, we&amp;rsquo;ll like to reformat a flash drive, either to use a different file system or to clean up for friend.
+In Linux, there are several graphic software that provides you the same ability.</description>
+    </item>
+    
+  </channel>
+</rss>
