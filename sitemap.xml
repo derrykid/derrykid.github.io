@@ -2,25 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://derry.club/categories/backend/</loc>
-    <lastmod>2022-06-27T18:47:30+08:00</lastmod>
+    <loc>https://derry.club/tags/archive/</loc>
+    <lastmod>2022-11-04T20:05:41+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/categories/</loc>
-    <lastmod>2022-06-27T18:47:30+08:00</lastmod>
+    <lastmod>2022-11-04T20:05:41+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/command/</loc>
+    <lastmod>2022-11-04T20:05:41+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/compress/</loc>
+    <lastmod>2022-11-04T20:05:41+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/</loc>
+    <lastmod>2022-11-04T20:05:41+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/gzip/</loc>
+    <lastmod>2022-11-04T20:05:41+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/categories/linux/</loc>
+    <lastmod>2022-11-04T20:05:41+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/posts/linux-archive-and-compress-command-tar-gzip/</loc>
+    <lastmod>2022-11-04T20:05:41+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/posts/</loc>
+    <lastmod>2022-11-04T20:05:41+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/</loc>
+    <lastmod>2022-11-04T20:05:41+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/tar/</loc>
+    <lastmod>2022-11-04T20:05:41+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/categories/backend/</loc>
     <lastmod>2022-06-27T18:47:30+08:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/git/</loc>
     <lastmod>2022-06-27T18:47:30+08:00</lastmod>
   </url><url>
     <loc>https://derry.club/posts/git-cheatsheet/</loc>
-    <lastmod>2022-06-27T18:47:30+08:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/posts/</loc>
-    <lastmod>2022-06-27T18:47:30+08:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/tags/</loc>
     <lastmod>2022-06-27T18:47:30+08:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/java/</loc>
@@ -43,9 +64,6 @@
   </url><url>
     <loc>https://derry.club/tags/mysql/</loc>
     <lastmod>2022-03-17T14:26:35+08:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/tags/command/</loc>
-    <lastmod>2022-03-17T12:06:46+08:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/format/</loc>
     <lastmod>2022-03-17T12:06:46+08:00</lastmod>
