@@ -1,1 +1,1 @@
-# This is my blog posts static assets
+# This is my blog posts static assets 
