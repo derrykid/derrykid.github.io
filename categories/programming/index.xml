@@ -9,32 +9,26 @@
       <link>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Jun 2022 18:47:30 +0800</lastBuildDate><atom:link href="https://derry.club/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2022 18:52:09 +0000</lastBuildDate><atom:link href="https://derry.club/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Git Cheatsheet</title>
-      <link>https://derry.club/posts/git-cheatsheet/</link>
-      <pubDate>Mon, 27 Jun 2022 18:47:30 +0800</pubDate>
+      <title>Git What Is Origin in Git Push Origin Main</title>
+      <link>https://derry.club/posts/git-what-is-origin-in-git-push-origin-main/</link>
+      <pubDate>Sat, 12 Nov 2022 18:52:09 +0000</pubDate>
       
-      <guid>https://derry.club/posts/git-cheatsheet/</guid>
-      <description>[toc]
-I learn git from this interactive tutorial. I take note along the way while I was doing it.
-Learn git visual
-Commit to repo We was on C1 commit
-git commit Branch new branch git branch &amp;lt;name&amp;gt; change branch git checkout &amp;lt;name&amp;gt; create a new branch and check it out It can be shorthand:
-git checkout -b &amp;lt;name&amp;gt; merge Now we are working on main branch
-We are going to merge the branch bugFix into main</description>
+      <guid>https://derry.club/posts/git-what-is-origin-in-git-push-origin-main/</guid>
+      <description>What is origin in git push origin main? The origin is a convention. It&amp;rsquo;s an alias, short for what we see from the output of git remote -v. You can name it whatever you want. You can think of it as where this code is &amp;ldquo;originated&amp;rdquo; from.
+git remote -v # output origin	git@github.com:derrykid/workongit.git (fetch) origin	git@github.com:derrykid/workongit.git (push) Set the remote URL as origin and upstream Whenever we pull the code from remote repository, it flows downstream.</description>
     </item>
     
     <item>
-      <title>Java - static Keyword</title>
-      <link>https://derry.club/posts/java/static-keyword/</link>
-      <pubDate>Mon, 18 Apr 2022 14:30:55 +0800</pubDate>
+      <title>Git How to Switch From Password Prompt to Ssh</title>
+      <link>https://derry.club/posts/git-how-to-switch-from-password-prompt-to-ssh/</link>
+      <pubDate>Sat, 12 Nov 2022 18:47:19 +0000</pubDate>
       
-      <guid>https://derry.club/posts/java/static-keyword/</guid>
-      <description>static  In simple words: static means the variable or methods that assigned to are belonging to the class, not the object. Therefore, there&amp;rsquo;s only one copy of the variable/method in the memory.
- When create an object where all instance variables aren&amp;rsquo;t static, every object will own its memory space, and its own copy of value.
-Suppose we have a ball class:
-class Ball{ double radius; final double PI = 3.</description>
+      <guid>https://derry.club/posts/git-how-to-switch-from-password-prompt-to-ssh/</guid>
+      <description>GitHub has terminated the login from password in command line. You can switch to SSH. This tutorial will guide you how to do it.
+Git switch from password to SSH What I do is switch remote URLs from HTTPS to SSH. By doing this, the password prompt is no longer there and I can push directly.
+Usually we use git clone https://github.com/USERNAME/repo.git to get the clone the remote repo to local machine.</description>
     </item>
     
   </channel>
