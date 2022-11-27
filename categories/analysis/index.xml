@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>analysis on Derry Dev Blog</title>
+    <link>https://derry.club/categories/analysis/</link>
+    <description>Recent content in analysis on Derry Dev Blog</description>
+    <image>
+      <url>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 27 Nov 2022 20:29:05 +0000</lastBuildDate><atom:link href="https://derry.club/categories/analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Despite the ethical regulations upon AI, Chinese government prioritize the nation welfare in compared to western counterparts</title>
+      <link>https://derry.club/posts/despite_the_ethical_regulations_china_prioritize_welfare/</link>
+      <pubDate>Sun, 27 Nov 2022 20:29:05 +0000</pubDate>
+      
+      <guid>https://derry.club/posts/despite_the_ethical_regulations_china_prioritize_welfare/</guid>
+      <description>Introduction Artificial Intelligence and its sub-category Machine Learning has gradually taken control of modern civilization. Regulations and mandatory rules are imposed across the globe. The concerns of personal information and privacy has led to the formation of General Data Protection Regulation (GDPR) in 2018 and identical regulations in United States. As AI algorithms evolves, the more complex and thorough refinement of laws are being imposed [1]. However, in contrast to GDPR and United States, China government emphasizes its nation welfare as priority.</description>
+    </item>
+    
+  </channel>
+</rss>

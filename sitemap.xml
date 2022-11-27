@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://derry.club/categories/</loc>
-    <lastmod>2022-11-12T18:52:09+00:00</lastmod>
+    <loc>https://derry.club/tags/ai/</loc>
+    <lastmod>2022-11-27T20:29:05+00:00</lastmod>
   </url><url>
-    <loc>https://derry.club/tags/command/</loc>
-    <lastmod>2022-11-12T18:52:09+00:00</lastmod>
+    <loc>https://derry.club/categories/analysis/</loc>
+    <lastmod>2022-11-27T20:29:05+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/categories/</loc>
+    <lastmod>2022-11-27T20:29:05+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/</loc>
+    <lastmod>2022-11-27T20:29:05+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/posts/despite_the_ethical_regulations_china_prioritize_welfare/</loc>
+    <lastmod>2022-11-27T20:29:05+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/posts/</loc>
+    <lastmod>2022-11-27T20:29:05+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/</loc>
+    <lastmod>2022-11-27T20:29:05+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/command/</loc>
     <lastmod>2022-11-12T18:52:09+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/git/</loc>
@@ -23,13 +38,7 @@
     <loc>https://derry.club/categories/linux/</loc>
     <lastmod>2022-11-12T18:52:09+00:00</lastmod>
   </url><url>
-    <loc>https://derry.club/posts/</loc>
-    <lastmod>2022-11-12T18:52:09+00:00</lastmod>
-  </url><url>
     <loc>https://derry.club/categories/programming/</loc>
-    <lastmod>2022-11-12T18:52:09+00:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/tags/</loc>
     <lastmod>2022-11-12T18:52:09+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/posts/git-how-to-switch-from-password-prompt-to-ssh/</loc>
