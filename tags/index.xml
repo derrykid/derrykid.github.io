@@ -9,7 +9,43 @@
       <link>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 27 Nov 2022 20:29:05 +0000</lastBuildDate><atom:link href="https://derry.club/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Dec 2022 18:38:06 +0000</lastBuildDate><atom:link href="https://derry.club/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>file</title>
+      <link>https://derry.club/tags/file/</link>
+      <pubDate>Sun, 04 Dec 2022 18:38:06 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>io</title>
+      <link>https://derry.club/tags/io/</link>
+      <pubDate>Sun, 04 Dec 2022 18:38:06 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://derry.club/tags/java/</link>
+      <pubDate>Sun, 04 Dec 2022 18:38:06 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RandomAccessFile</title>
+      <link>https://derry.club/tags/randomaccessfile/</link>
+      <pubDate>Sun, 04 Dec 2022 18:38:06 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/randomaccessfile/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>AI</title>
       <link>https://derry.club/tags/ai/</link>
@@ -34,6 +70,33 @@
       <pubDate>Sat, 12 Nov 2022 18:52:09 +0000</pubDate>
       
       <guid>https://derry.club/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://derry.club/tags/github/</link>
+      <pubDate>Sat, 12 Nov 2022 18:52:09 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://derry.club/tags/linux/</link>
+      <pubDate>Sat, 12 Nov 2022 18:52:09 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://derry.club/tags/programming/</link>
+      <pubDate>Sat, 12 Nov 2022 18:47:19 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/programming/</guid>
       <description></description>
     </item>
     
@@ -83,11 +146,11 @@
     </item>
     
     <item>
-      <title>java</title>
-      <link>https://derry.club/tags/java/</link>
-      <pubDate>Mon, 18 Apr 2022 14:30:55 +0800</pubDate>
+      <title>backend</title>
+      <link>https://derry.club/tags/backend/</link>
+      <pubDate>Mon, 27 Jun 2022 18:47:30 +0800</pubDate>
       
-      <guid>https://derry.club/tags/java/</guid>
+      <guid>https://derry.club/tags/backend/</guid>
       <description></description>
     </item>
     
@@ -124,15 +187,6 @@
       <pubDate>Thu, 17 Mar 2022 12:06:46 +0800</pubDate>
       
       <guid>https://derry.club/tags/format/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://derry.club/tags/linux/</link>
-      <pubDate>Thu, 17 Mar 2022 12:06:46 +0800</pubDate>
-      
-      <guid>https://derry.club/tags/linux/</guid>
       <description></description>
     </item>
     

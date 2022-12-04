@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>github on Derry Dev Blog</title>
+    <link>https://derry.club/tags/github/</link>
+    <description>Recent content in github on Derry Dev Blog</description>
+    <image>
+      <url>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 12 Nov 2022 18:52:09 +0000</lastBuildDate><atom:link href="https://derry.club/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git - What Is Origin in Git Push Origin Main</title>
+      <link>https://derry.club/posts/git-what-is-origin-in-git-push-origin-main/</link>
+      <pubDate>Sat, 12 Nov 2022 18:52:09 +0000</pubDate>
+      
+      <guid>https://derry.club/posts/git-what-is-origin-in-git-push-origin-main/</guid>
+      <description>What is origin in git push origin main? The origin is a convention. It&amp;rsquo;s an alias, short for what we see from the output of git remote -v. You can name it whatever you want. You can think of it as where this code is &amp;ldquo;originated&amp;rdquo; from.
+git remote -v # output origin	git@github.com:derrykid/workongit.git (fetch) origin	git@github.com:derrykid/workongit.git (push) Set the remote URL as origin and upstream Whenever we pull the code from remote repository, it flows downstream.</description>
+    </item>
+    
+  </channel>
+</rss>
