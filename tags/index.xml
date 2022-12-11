@@ -9,7 +9,43 @@
       <link>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 04 Dec 2022 18:38:06 +0000</lastBuildDate><atom:link href="https://derry.club/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Dec 2022 08:32:40 +0000</lastBuildDate><atom:link href="https://derry.club/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>abstract</title>
+      <link>https://derry.club/tags/abstract/</link>
+      <pubDate>Sun, 11 Dec 2022 08:32:40 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/abstract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>class</title>
+      <link>https://derry.club/tags/class/</link>
+      <pubDate>Sun, 11 Dec 2022 08:32:40 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interface</title>
+      <link>https://derry.club/tags/interface/</link>
+      <pubDate>Sun, 11 Dec 2022 08:32:40 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://derry.club/tags/java/</link>
+      <pubDate>Sun, 11 Dec 2022 08:32:40 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/java/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>file</title>
       <link>https://derry.club/tags/file/</link>
@@ -25,15 +61,6 @@
       <pubDate>Sun, 04 Dec 2022 18:38:06 +0000</pubDate>
       
       <guid>https://derry.club/tags/io/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>https://derry.club/tags/java/</link>
-      <pubDate>Sun, 04 Dec 2022 18:38:06 +0000</pubDate>
-      
-      <guid>https://derry.club/tags/java/</guid>
       <description></description>
     </item>
     

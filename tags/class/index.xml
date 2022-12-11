@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>technology and development on Derry Dev Blog</title>
-    <link>https://derry.club/categories/technology-and-development/</link>
-    <description>Recent content in technology and development on Derry Dev Blog</description>
+    <title>class on Derry Dev Blog</title>
+    <link>https://derry.club/tags/class/</link>
+    <description>Recent content in class on Derry Dev Blog</description>
     <image>
       <url>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 11 Dec 2022 08:32:40 +0000</lastBuildDate><atom:link href="https://derry.club/categories/technology-and-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Dec 2022 08:32:40 +0000</lastBuildDate><atom:link href="https://derry.club/tags/class/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java Abstract Class and how to use it? When we combine it with interface?</title>
       <link>https://derry.club/posts/java/abstract-class/</link>
@@ -19,16 +19,6 @@
       <description>Java abstract class An abstract class is like a structure of data. However, unlike interface, it can define methods and attribute. You can view it as an enforced blueprint for an object. You cannot initiate an object from it but from its sub-classes.
 An abstract class is:
 It cannot be instantiated It can contain constructor and object fields. Contains abstract method (0 to many), and concrete methods Its subclasses must override its abstract method An abstract class example:</description>
-    </item>
-    
-    <item>
-      <title>Java IO package - What is RandomAccessFile and how to use it</title>
-      <link>https://derry.club/posts/java/randomaccessfile/</link>
-      <pubDate>Sun, 04 Dec 2022 18:38:06 +0000</pubDate>
-      
-      <guid>https://derry.club/posts/java/randomaccessfile/</guid>
-      <description>RandomAccessFile This allows you to read from it or write to it as you please. You can replace the content of the file. This cannot achieve by FileInputStream or FileOutputStream.
-Create a RandomAccessFile object RandomAccessFile file = new RandomAccessFile(&amp;#34;file.txt&amp;#34;, &amp;#34;rw&amp;#34;); Mode Description r Read mode. Calling write methods will result in an IOException. rw Read and write mode rwd Read and write mode - synchronously. All updates to file content is written to the disk synchronously.</description>
     </item>
     
   </channel>
