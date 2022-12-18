@@ -9,7 +9,43 @@
       <link>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 11 Dec 2022 08:32:40 +0000</lastBuildDate><atom:link href="https://derry.club/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 20:42:21 +0000</lastBuildDate><atom:link href="https://derry.club/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>command</title>
+      <link>https://derry.club/tags/command/</link>
+      <pubDate>Sun, 18 Dec 2022 20:42:21 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/command/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curl</title>
+      <link>https://derry.club/tags/curl/</link>
+      <pubDate>Sun, 18 Dec 2022 20:42:21 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/curl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTTP</title>
+      <link>https://derry.club/tags/http/</link>
+      <pubDate>Sun, 18 Dec 2022 20:42:21 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/http/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://derry.club/tags/web/</link>
+      <pubDate>Sun, 18 Dec 2022 20:42:21 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/web/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>abstract</title>
       <link>https://derry.club/tags/abstract/</link>
@@ -79,15 +115,6 @@
       <pubDate>Sun, 27 Nov 2022 20:29:05 +0000</pubDate>
       
       <guid>https://derry.club/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>command</title>
-      <link>https://derry.club/tags/command/</link>
-      <pubDate>Sat, 12 Nov 2022 18:52:09 +0000</pubDate>
-      
-      <guid>https://derry.club/tags/command/</guid>
       <description></description>
     </item>
     

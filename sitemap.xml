@@ -2,16 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://derry.club/categories/</loc>
+    <lastmod>2022-12-18T20:42:21+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/command/</loc>
+    <lastmod>2022-12-18T20:42:21+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/curl/</loc>
+    <lastmod>2022-12-18T20:42:21+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/posts/curl/</loc>
+    <lastmod>2022-12-18T20:42:21+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/</loc>
+    <lastmod>2022-12-18T20:42:21+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/http/</loc>
+    <lastmod>2022-12-18T20:42:21+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/posts/</loc>
+    <lastmod>2022-12-18T20:42:21+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/</loc>
+    <lastmod>2022-12-18T20:42:21+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/categories/technology-and-development/</loc>
+    <lastmod>2022-12-18T20:42:21+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/web/</loc>
+    <lastmod>2022-12-18T20:42:21+00:00</lastmod>
+  </url><url>
     <loc>https://derry.club/tags/abstract/</loc>
     <lastmod>2022-12-11T08:32:40+00:00</lastmod>
   </url><url>
-    <loc>https://derry.club/categories/</loc>
-    <lastmod>2022-12-11T08:32:40+00:00</lastmod>
-  </url><url>
     <loc>https://derry.club/tags/class/</loc>
-    <lastmod>2022-12-11T08:32:40+00:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/</loc>
     <lastmod>2022-12-11T08:32:40+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/interface/</loc>
@@ -21,15 +45,6 @@
     <lastmod>2022-12-11T08:32:40+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/posts/java/abstract-class/</loc>
-    <lastmod>2022-12-11T08:32:40+00:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/posts/</loc>
-    <lastmod>2022-12-11T08:32:40+00:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/tags/</loc>
-    <lastmod>2022-12-11T08:32:40+00:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/categories/technology-and-development/</loc>
     <lastmod>2022-12-11T08:32:40+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/file/</loc>
@@ -52,9 +67,6 @@
   </url><url>
     <loc>https://derry.club/categories/technology-and-software-development/</loc>
     <lastmod>2022-11-27T20:29:05+00:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/tags/command/</loc>
-    <lastmod>2022-11-12T18:52:09+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/git/</loc>
     <lastmod>2022-11-12T18:52:09+00:00</lastmod>

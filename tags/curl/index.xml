@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>curl on Derry Dev Blog</title>
+    <link>https://derry.club/tags/curl/</link>
+    <description>Recent content in curl on Derry Dev Blog</description>
+    <image>
+      <url>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 18 Dec 2022 20:42:21 +0000</lastBuildDate><atom:link href="https://derry.club/tags/curl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curl cheat sheet, for web developement</title>
+      <link>https://derry.club/posts/curl/</link>
+      <pubDate>Sun, 18 Dec 2022 20:42:21 +0000</pubDate>
+      
+      <guid>https://derry.club/posts/curl/</guid>
+      <description>HTTP Request Specify Method by -X Form:
+curl -X &amp;lt;METHOD&amp;gt; &amp;lt;URI&amp;gt; By default, it uses GET method
+curl https://www.google.com/ # same as curl -X GET https://www.google.com/ Use Post simply by:
+curl -X POST https://www.example.com/ GET Get entire document of the website in terminal
+curl https://www.google.com/ POST curl -X POST https://example.com/ More complex, pass data, -d and header -H to server. Below shows POST with json body
+curl -d &amp;#39;{&amp;#34;option&amp;#34;: &amp;#34;value&amp;#34;, &amp;#34;something&amp;#34;: &amp;#34;anothervalue&amp;#34;}&amp;#39; \ -H &amp;#34;Content-Type: application/json&amp;#34; \ -X POST https://example.</description>
+    </item>
+    
+  </channel>
+</rss>
