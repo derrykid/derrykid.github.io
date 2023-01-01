@@ -9,7 +9,19 @@
       <link>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 18 Dec 2022 20:42:21 +0000</lastBuildDate><atom:link href="https://derry.club/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 16:54:27 +0000</lastBuildDate><atom:link href="https://derry.club/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring Boot Controller Service Repository</title>
+      <link>https://derry.club/posts/java/spring-boot-controller-service-repository/</link>
+      <pubDate>Sun, 01 Jan 2023 16:54:27 +0000</pubDate>
+      
+      <guid>https://derry.club/posts/java/spring-boot-controller-service-repository/</guid>
+      <description>Spring RESTful service Laur Spilca Youtube Tutorial series
+spring docs
+Spring Restful service is a popular backend application. The architecture usually is made up with 3 layers: Controller, Service, and Repository.
+Configuration setup @SpringBootApplication - define the app root The start point of program It&amp;rsquo;s with @ComponentScan - tell spring to create beans in which the classes have been annotated with. Spring RESTful Service architecture Spring RESTful service usually has this architecture.</description>
+    </item>
+    
     <item>
       <title>Curl cheat sheet, for web developement</title>
       <link>https://derry.club/posts/curl/</link>
