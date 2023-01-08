@@ -9,7 +9,20 @@
       <link>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 01 Jan 2023 16:54:27 +0000</lastBuildDate><atom:link href="https://derry.club/categories/technology-and-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 17:32:01 +0000</lastBuildDate><atom:link href="https://derry.club/categories/technology-and-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker Cheat sheet, a general cheat sheet for all use case</title>
+      <link>https://derry.club/posts/docker-cheatsheet/</link>
+      <pubDate>Sun, 08 Jan 2023 17:32:01 +0000</pubDate>
+      
+      <guid>https://derry.club/posts/docker-cheatsheet/</guid>
+      <description>Docker general Help - docker COMMAND --help This is for each command&amp;rsquo;s detail
+For example, docker run --help
+TL;DR docker run &amp;lt;image&amp;gt; - to initialize a new container docker start &amp;lt;container_name&amp;gt; start running the &amp;ldquo;stopped&amp;rdquo; container docker stop &amp;lt;container_name&amp;gt; docker run - Initialize a container Run a command in a new container
+Usage: docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
+Basic form to initialize a container, or to run a command</description>
+    </item>
+    
     <item>
       <title>Spring Boot Controller Service Repository</title>
       <link>https://derry.club/posts/java/spring-boot-controller-service-repository/</link>

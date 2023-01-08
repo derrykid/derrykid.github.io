@@ -3,18 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://derry.club/categories/</loc>
-    <lastmod>2023-01-01T16:54:27+00:00</lastmod>
+    <lastmod>2023-01-08T17:32:01+00:00</lastmod>
   </url><url>
-    <loc>https://derry.club/tags/data/</loc>
-    <lastmod>2023-01-01T16:54:27+00:00</lastmod>
+    <loc>https://derry.club/tags/command/</loc>
+    <lastmod>2023-01-08T17:32:01+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/container/</loc>
+    <lastmod>2023-01-08T17:32:01+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/</loc>
-    <lastmod>2023-01-01T16:54:27+00:00</lastmod>
+    <lastmod>2023-01-08T17:32:01+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/development/</loc>
+    <lastmod>2023-01-08T17:32:01+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/docker/</loc>
+    <lastmod>2023-01-08T17:32:01+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/posts/docker-cheatsheet/</loc>
+    <lastmod>2023-01-08T17:32:01+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/docker-compose/</loc>
+    <lastmod>2023-01-08T17:32:01+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/java/</loc>
-    <lastmod>2023-01-01T16:54:27+00:00</lastmod>
+    <lastmod>2023-01-08T17:32:01+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/linux/</loc>
+    <lastmod>2023-01-08T17:32:01+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/network/</loc>
+    <lastmod>2023-01-08T17:32:01+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/posts/</loc>
+    <lastmod>2023-01-08T17:32:01+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/server/</loc>
+    <lastmod>2023-01-08T17:32:01+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/</loc>
+    <lastmod>2023-01-08T17:32:01+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/categories/technology-and-development/</loc>
+    <lastmod>2023-01-08T17:32:01+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/web/</loc>
+    <lastmod>2023-01-08T17:32:01+00:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/data/</loc>
     <lastmod>2023-01-01T16:54:27+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/rest-api/</loc>
@@ -29,15 +65,6 @@
     <loc>https://derry.club/posts/java/spring-boot-controller-service-repository/</loc>
     <lastmod>2023-01-01T16:54:27+00:00</lastmod>
   </url><url>
-    <loc>https://derry.club/tags/</loc>
-    <lastmod>2023-01-01T16:54:27+00:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/categories/technology-and-development/</loc>
-    <lastmod>2023-01-01T16:54:27+00:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/tags/command/</loc>
-    <lastmod>2022-12-18T20:42:21+00:00</lastmod>
-  </url><url>
     <loc>https://derry.club/tags/curl/</loc>
     <lastmod>2022-12-18T20:42:21+00:00</lastmod>
   </url><url>
@@ -45,9 +72,6 @@
     <lastmod>2022-12-18T20:42:21+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/http/</loc>
-    <lastmod>2022-12-18T20:42:21+00:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/tags/web/</loc>
     <lastmod>2022-12-18T20:42:21+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/abstract/</loc>
@@ -90,9 +114,6 @@
     <lastmod>2022-11-12T18:52:09+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/github/</loc>
-    <lastmod>2022-11-12T18:52:09+00:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/tags/linux/</loc>
     <lastmod>2022-11-12T18:52:09+00:00</lastmod>
   </url><url>
     <loc>https://derry.club/posts/git-how-to-switch-from-password-prompt-to-ssh/</loc>

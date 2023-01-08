@@ -9,22 +9,103 @@
       <link>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 01 Jan 2023 16:54:27 +0000</lastBuildDate><atom:link href="https://derry.club/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 17:32:01 +0000</lastBuildDate><atom:link href="https://derry.club/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>data</title>
-      <link>https://derry.club/tags/data/</link>
-      <pubDate>Sun, 01 Jan 2023 16:54:27 +0000</pubDate>
+      <title>command</title>
+      <link>https://derry.club/tags/command/</link>
+      <pubDate>Sun, 08 Jan 2023 17:32:01 +0000</pubDate>
       
-      <guid>https://derry.club/tags/data/</guid>
+      <guid>https://derry.club/tags/command/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>container</title>
+      <link>https://derry.club/tags/container/</link>
+      <pubDate>Sun, 08 Jan 2023 17:32:01 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/container/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://derry.club/tags/development/</link>
+      <pubDate>Sun, 08 Jan 2023 17:32:01 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://derry.club/tags/docker/</link>
+      <pubDate>Sun, 08 Jan 2023 17:32:01 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker compose</title>
+      <link>https://derry.club/tags/docker-compose/</link>
+      <pubDate>Sun, 08 Jan 2023 17:32:01 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/docker-compose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>java</title>
       <link>https://derry.club/tags/java/</link>
-      <pubDate>Sun, 01 Jan 2023 16:54:27 +0000</pubDate>
+      <pubDate>Sun, 08 Jan 2023 17:32:01 +0000</pubDate>
       
       <guid>https://derry.club/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://derry.club/tags/linux/</link>
+      <pubDate>Sun, 08 Jan 2023 17:32:01 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>https://derry.club/tags/network/</link>
+      <pubDate>Sun, 08 Jan 2023 17:32:01 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>server</title>
+      <link>https://derry.club/tags/server/</link>
+      <pubDate>Sun, 08 Jan 2023 17:32:01 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://derry.club/tags/web/</link>
+      <pubDate>Sun, 08 Jan 2023 17:32:01 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>https://derry.club/tags/data/</link>
+      <pubDate>Sun, 01 Jan 2023 16:54:27 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/data/</guid>
       <description></description>
     </item>
     
@@ -56,15 +137,6 @@
     </item>
     
     <item>
-      <title>command</title>
-      <link>https://derry.club/tags/command/</link>
-      <pubDate>Sun, 18 Dec 2022 20:42:21 +0000</pubDate>
-      
-      <guid>https://derry.club/tags/command/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>curl</title>
       <link>https://derry.club/tags/curl/</link>
       <pubDate>Sun, 18 Dec 2022 20:42:21 +0000</pubDate>
@@ -79,15 +151,6 @@
       <pubDate>Sun, 18 Dec 2022 20:42:21 +0000</pubDate>
       
       <guid>https://derry.club/tags/http/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>web</title>
-      <link>https://derry.club/tags/web/</link>
-      <pubDate>Sun, 18 Dec 2022 20:42:21 +0000</pubDate>
-      
-      <guid>https://derry.club/tags/web/</guid>
       <description></description>
     </item>
     
@@ -169,15 +232,6 @@
       <pubDate>Sat, 12 Nov 2022 18:52:09 +0000</pubDate>
       
       <guid>https://derry.club/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>https://derry.club/tags/linux/</link>
-      <pubDate>Sat, 12 Nov 2022 18:52:09 +0000</pubDate>
-      
-      <guid>https://derry.club/tags/linux/</guid>
       <description></description>
     </item>
     
