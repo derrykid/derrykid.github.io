@@ -9,7 +9,79 @@
       <link>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 08 Jan 2023 17:32:01 +0000</lastBuildDate><atom:link href="https://derry.club/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Jan 2023 18:52:27 +0000</lastBuildDate><atom:link href="https://derry.club/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>annotations</title>
+      <link>https://derry.club/tags/annotations/</link>
+      <pubDate>Sun, 15 Jan 2023 18:52:27 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/annotations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cheat sheet</title>
+      <link>https://derry.club/tags/cheat-sheet/</link>
+      <pubDate>Sun, 15 Jan 2023 18:52:27 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/cheat-sheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>https://derry.club/tags/data/</link>
+      <pubDate>Sun, 15 Jan 2023 18:52:27 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>database</title>
+      <link>https://derry.club/tags/database/</link>
+      <pubDate>Sun, 15 Jan 2023 18:52:27 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://derry.club/tags/java/</link>
+      <pubDate>Sun, 15 Jan 2023 18:52:27 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jpa</title>
+      <link>https://derry.club/tags/jpa/</link>
+      <pubDate>Sun, 15 Jan 2023 18:52:27 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/jpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>persistence</title>
+      <link>https://derry.club/tags/persistence/</link>
+      <pubDate>Sun, 15 Jan 2023 18:52:27 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/persistence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>table</title>
+      <link>https://derry.club/tags/table/</link>
+      <pubDate>Sun, 15 Jan 2023 18:52:27 +0000</pubDate>
+      
+      <guid>https://derry.club/tags/table/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>command</title>
       <link>https://derry.club/tags/command/</link>
@@ -56,15 +128,6 @@
     </item>
     
     <item>
-      <title>java</title>
-      <link>https://derry.club/tags/java/</link>
-      <pubDate>Sun, 08 Jan 2023 17:32:01 +0000</pubDate>
-      
-      <guid>https://derry.club/tags/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>linux</title>
       <link>https://derry.club/tags/linux/</link>
       <pubDate>Sun, 08 Jan 2023 17:32:01 +0000</pubDate>
@@ -97,15 +160,6 @@
       <pubDate>Sun, 08 Jan 2023 17:32:01 +0000</pubDate>
       
       <guid>https://derry.club/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data</title>
-      <link>https://derry.club/tags/data/</link>
-      <pubDate>Sun, 01 Jan 2023 16:54:27 +0000</pubDate>
-      
-      <guid>https://derry.club/tags/data/</guid>
       <description></description>
     </item>
     
@@ -304,15 +358,6 @@
       <pubDate>Mon, 18 Apr 2022 14:30:55 +0800</pubDate>
       
       <guid>https://derry.club/tags/static/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>database</title>
-      <link>https://derry.club/tags/database/</link>
-      <pubDate>Thu, 17 Mar 2022 14:26:35 +0800</pubDate>
-      
-      <guid>https://derry.club/tags/database/</guid>
       <description></description>
     </item>
     
