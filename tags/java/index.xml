@@ -5,24 +5,12 @@
     <link>https://derry.club/tags/java/</link>
     <description>Recent content in java on Derry Dev Blog</description>
     <image>
+      <title>Derry Dev Blog</title>
       <url>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 15 Jan 2023 18:52:27 +0000</lastBuildDate><atom:link href="https://derry.club/tags/java/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Jpa Cheat Sheet for annotations</title>
-      <link>https://derry.club/posts/java/jpa-cheat-sheet/</link>
-      <pubDate>Sun, 15 Jan 2023 18:52:27 +0000</pubDate>
-      
-      <guid>https://derry.club/posts/java/jpa-cheat-sheet/</guid>
-      <description>Entity @Entity - marks class as the database entity @Entity public class Pokemon{} @Table - table name @Table(name = &amp;#34;Poke&amp;#34;) public class Pokemon { } @Id - mark the primary key Annotate primary key
-@Id private int id; @GeneratedValue - the strategy for primary key GenerationType
-@Id @GeneratedValue(strategy = GenerationType.IDENTITY) private int id; GenerationType.IDENTITY The database is set AUTO_INCREMENT.
-Similar to SQL id NOT NULL AUTO_INCREMENT
-GenerationType.SQUENCE GenerationType.TABLE Use the TABLE in database to set the primary key for us, instead of the DBMS system.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 08 Jan 2023 17:32:01 +0000</lastBuildDate><atom:link href="https://derry.club/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker Cheat sheet, a general cheat sheet for all use case</title>
       <link>https://derry.club/posts/docker-cheatsheet/</link>
