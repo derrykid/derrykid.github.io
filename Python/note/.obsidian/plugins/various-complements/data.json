@@ -1,0 +1,691 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "search": {
+      "search": {
+        "currentFile": {
+          "count": 8,
+          "lastUpdated": 1665436530582
+        }
+      }
+    },
+    "best-first": {
+      "best-first": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665416300473
+        }
+      }
+    },
+    "frontier": {
+      "frontier": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1665415936580
+        }
+      }
+    },
+    "queue": {
+      "queue": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665415872552
+        }
+      }
+    },
+    "came_from": {
+      "came_from": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665415945014
+        }
+      }
+    },
+    "priority": {
+      "priority": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665415940998
+        }
+      }
+    },
+    "algorithm": {
+      "algorithm": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1665416042960
+        },
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665416048170
+        }
+      }
+    },
+    "greedy-first": {
+      "greedy-first": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665416243330
+        }
+      }
+    },
+    "heuristic": {
+      "heuristic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665417094966
+        }
+      }
+    },
+    "overestimates": {
+      "overestimates": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665417152662
+        }
+      }
+    },
+    "formulate": {
+      "formulate": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665431372412
+        }
+      }
+    },
+    "problem": {
+      "problem": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665431376305
+        }
+      }
+    },
+    "states": {
+      "states": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665431557578
+        }
+      }
+    },
+    "state": {
+      "state": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665572171229
+        }
+      }
+    },
+    "action": {
+      "action": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665431566804
+        }
+      }
+    },
+    "strategies": {
+      "strategies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665434397693
+        }
+      }
+    },
+    "complexity": {
+      "complexity": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1665438068280
+        }
+      }
+    },
+    "Search_problem": {
+      "Search_problem": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1665435292400
+        }
+      }
+    },
+    "depth-first": {
+      "depth-first": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665436702174
+        }
+      }
+    },
+    "Properties": {
+      "Properties": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665436717386
+        }
+      }
+    },
+    "level": {
+      "level": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665436832887
+        }
+      }
+    },
+    "Depth-limited": {
+      "Depth-limited": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665437787118
+        }
+      }
+    },
+    "optimal": {
+      "optimal": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665687904166
+        }
+      }
+    },
+    "breath-first": {
+      "breath-first": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665438464842
+        }
+      }
+    },
+    "paths": {
+      "paths": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665438494598
+        }
+      }
+    },
+    "quickly": {
+      "quickly": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665438556131
+        }
+      }
+    },
+    "MDP": {
+      "MDP": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1665571710432
+        }
+      }
+    },
+    "Reinforcement_Learning": {
+      "Reinforcement_Learning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665498594159
+        }
+      }
+    },
+    "probability": {
+      "probability": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1665926160595
+        }
+      }
+    },
+    "calculated": {
+      "calculated": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1665500631486
+        }
+      }
+    },
+    "reinforcement": {
+      "reinforcement": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1665911321992
+        }
+      }
+    },
+    "beforehead": {
+      "beforehead": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665498679415
+        }
+      }
+    },
+    "learning": {
+      "learning": {
+        "currentFile": {
+          "count": 9,
+          "lastUpdated": 1665928114380
+        }
+      }
+    },
+    "Model-based": {
+      "Model-based": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665498854528
+        }
+      }
+    },
+    "transition": {
+      "transition": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665500654980
+        }
+      }
+    },
+    "Model-free": {
+      "Model-free": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665500671182
+        }
+      }
+    },
+    "model-free": {
+      "model-free": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665500843641
+        }
+      }
+    },
+    "values": {
+      "values": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665500884770
+        }
+      }
+    },
+    "reward": {
+      "reward": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665573327757
+        }
+      }
+    },
+    "episodes": {
+      "episodes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665501027043
+        }
+      }
+    },
+    "samples": {
+      "samples": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665501122755
+        }
+      }
+    },
+    "evaluation": {
+      "evaluation": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665687793058
+        }
+      }
+    },
+    "outcomes": {
+      "outcomes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665501494473
+        }
+      }
+    },
+    "average": {
+      "average": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665912616348
+        }
+      }
+    },
+    "nodes": {
+      "nodes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665502452913
+        }
+      }
+    },
+    "evaluate": {
+      "evaluate": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665502506149
+        }
+      }
+    },
+    "trees": {
+      "trees": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665502770954
+        }
+      }
+    },
+    "position": {
+      "position": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665502849694
+        }
+      }
+    },
+    "board": {
+      "board": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665502857647
+        }
+      }
+    },
+    "function": {
+      "function": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665502954946
+        }
+      }
+    },
+    "outcome": {
+      "outcome": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665503400874
+        }
+      }
+    },
+    "pruning": {
+      "pruning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665503873569
+        }
+      }
+    },
+    "uncertain": {
+      "uncertain": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665521753639
+        }
+      }
+    },
+    "Calcuate": {
+      "Calcuate": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665521758254
+        }
+      }
+    },
+    "environment": {
+      "environment": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1665583635404
+        }
+      }
+    },
+    "calculate": {
+      "calculate": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1665609977897
+        }
+      }
+    },
+    "expectimax": {
+      "expectimax": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665584873425
+        }
+      }
+    },
+    "stochastic": {
+      "stochastic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665583633504
+        }
+      }
+    },
+    "adversarial": {
+      "adversarial": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665585054077
+        }
+      }
+    },
+    "Mdp_tree": {
+      "Mdp_tree": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665586003548
+        }
+      }
+    },
+    "infinite": {
+      "infinite": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665586054015
+        }
+      }
+    },
+    "algorithms": {
+      "algorithms": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665586061411
+        }
+      }
+    },
+    "Calculate": {
+      "Calculate": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665687830230
+        }
+      }
+    },
+    "utilities": {
+      "utilities": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665690678786
+        }
+      }
+    },
+    "convergence": {
+      "convergence": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665687846895
+        }
+      }
+    },
+    "improvement": {
+      "improvement": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665687860967
+        }
+      }
+    },
+    "Converge": {
+      "Converge": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665687909443
+        }
+      }
+    },
+    "iteration": {
+      "iteration": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665912217316
+        }
+      }
+    },
+    "Policy": {
+      "Policy": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665690664412
+        }
+      }
+    },
+    "Learning": {
+      "Learning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665911277547
+        }
+      }
+    },
+    "enough": {
+      "enough": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665926001988
+        }
+      }
+    },
+    "explore": {
+      "explore": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665926090876
+        }
+      }
+    },
+    "policy": {
+      "policy": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665928001495
+        }
+      }
+    },
+    "times": {
+      "times": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665926272239
+        }
+      }
+    },
+    "regret": {
+      "regret": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665926545614
+        }
+      }
+    },
+    "experience": {
+      "experience": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665927971836
+        }
+      }
+    },
+    "linspace": {
+      "linspace": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666789346826
+        }
+      }
+    },
+    "stackoverflow": {
+      "stackoverflow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666790924831
+        }
+      }
+    },
+    "meshgrid": {
+      "meshgrid": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666791518102
+        }
+      }
+    },
+    "array": {
+      "array": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666793449004
+        }
+      }
+    }
+  }
+}

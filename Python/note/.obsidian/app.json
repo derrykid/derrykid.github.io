@@ -1,0 +1,17 @@
+{
+  "vimMode": true,
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-GB"
+  ],
+  "promptDelete": false,
+  "readableLineLength": true,
+  "lineWrap": true,
+  "alwaysUpdateLinks": true,
+  "tabSize": 4,
+  "attachmentFolderPath": "./images",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "spellcheck": true
+}

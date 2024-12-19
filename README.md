@@ -1,0 +1,2 @@
+- Java note is submodule
+- Linux note is submodule

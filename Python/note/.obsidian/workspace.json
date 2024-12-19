@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "5b872d0da0db7159",
+    "type": "split",
+    "children": [
+      {
+        "id": "f497c999df973701",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f83f3480a42648c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "numpy/numpy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b14828b2ef3251a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d42c5cb5e36b9ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c08cfc0d880d701a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8cb73fc03624222d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "805db69f1a6d8682",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.50043487548828
+  },
+  "right": {
+    "id": "c04958758999809e",
+    "type": "split",
+    "children": [
+      {
+        "id": "094306aeac134a78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b8d108058796f4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "numpy/numpy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e37b512800f399ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "numpy/numpy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8d1e1556253e256",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0221c56a14162812",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "numpy/numpy.md"
+              }
+            }
+          },
+          {
+            "id": "8d3821ec7e9e2bfb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "f83f3480a42648c0",
+  "lastOpenFiles": [
+    "numpy/numpy.md",
+    "Tuple.md",
+    "block1/ai/4-MDP Markov Decision Processes.md",
+    "block1/ai/5-Reinforcement_Learning.md",
+    "block1/ai/2.2-informed_search.md",
+    "block1/ai/3-Games and adversarial search.md",
+    "MDP.md",
+    "block1/ai/2.1-uninformed_search.md",
+    "block1/ai/2-Search_problem.md",
+    "Effective-Java-3rd-edition-Chinese-English-bilingual/Chapter-10/Chapter-10-Introduction.md"
+  ]
+}
