@@ -2,3 +2,6 @@
   path = Java
   url = https://github.com/derrykid/java-notes.git
 
+[submodule "Linux"]
+  path = Linux
+  url = https://github.com/derrykid/Linux_Cmds.git
